@@ -1,0 +1,2 @@
+"FR6: to view station" 
+"Description: to view available ride stations" 
