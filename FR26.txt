@@ -1,0 +1,2 @@
+"FR26 Place food order" 
+"The user should be able to place food order using the application." 
